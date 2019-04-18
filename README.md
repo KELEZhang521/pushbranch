@@ -1,4 +1,4 @@
 # README
 - MASTER
 - add feature-B
-- add feature-C
+- add feature-C-B
